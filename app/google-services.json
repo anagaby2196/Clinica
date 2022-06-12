@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585709028627",
+    "project_id": "clinica-6f81a",
+    "storage_bucket": "clinica-6f81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585709028627:android:1a74e990bbd85f2132c6e6",
+        "android_client_info": {
+          "package_name": "com.clinica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585709028627-tklladbj630693el42shlo5dr2kfbsou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVIO-xRpnhfEK9CHFn_6wiCgXx606nVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585709028627-tklladbj630693el42shlo5dr2kfbsou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
